@@ -1,4 +1,4 @@
-[![MasterHead](https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif)]
+![MasterHead](https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif)
 <h1 align="center">Hi 👋, I'm Facundo Blanco</h1>
 <h3 align="center">A passionate software engineering student</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
