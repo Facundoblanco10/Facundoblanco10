@@ -25,7 +25,7 @@
 📈 My Github stats
 </h3>
 <p align="center">
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Facundoblanco10&theme=gruvbox&custom_title=Contribution%20Graph">
+<img width="50%" src="https://activity-graph.herokuapp.com/graph?username=Facundoblanco10&theme=gruvbox&custom_title=Contribution%20Graph">
 <img align="center" width="45.3%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Facundoblanco10&show_icons=true&locale=en&layout=compact&theme=gruvbox&border_color=#2e2d2c" alt="Facundoblanco10" />
 <img align="center" width="54%" src="https://github-readme-streak-stats.herokuapp.com/?user=Facundoblanco10&theme=gruvbox" alt="Facundoblanco10" />
 </p>
