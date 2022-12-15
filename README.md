@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **in Holberton School in Uruguay**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Facundoblanco10](https://github.com/Facundoblanco10)
-
 - 💬 Ask me about **Python, SQL, JavaScript, Flask, HTML or CSS**
 
 - 📫 How to reach me **facundoblancov@gmail.com**
