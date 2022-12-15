@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **in Holberton School in Uruguay**
 
-- 💬 Ask me about **Python, SQL, JavaScript, Flask, HTML or CSS**
+- 💬 Ask me about **C, Python, SQL, JavaScript, Flask, HTML or CSS**
 
 - 📫 How to reach me **facundoblancov@gmail.com**
 
