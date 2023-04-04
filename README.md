@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=facundoblanco10&label=Profile%20views&color=0e75b6&style=flat" alt="facundoblanco10" /> </p>
 
-- 🔭 I’m currently working on [Holberton-PetMate](https://github.com/Holberton-PetMate)
+- 🔭 I’m currently working on [holbertonschool-machine_learning](https://github.com/Facundoblanco10/holbertonschool-machine_learning)
 
 - 🌱 I’m currently learning **in Holberton School in Uruguay**
 
