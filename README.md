@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://i.pinimg.com/originals/fc/73/0c/fc730cf040552a5c6892f6743163e6a8.png" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">I'm Facundo, a passionate FullStack Developer student and professional from Uruguay</div>  
   
