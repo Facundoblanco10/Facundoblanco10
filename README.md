@@ -51,15 +51,14 @@ Let's connect and collaborate on exciting projects!
 
 <br/>  
 
-
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Facundoblanco10&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Facundoblanco10&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=79ff97&title_color=ffffff" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacundoBlanco10&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacundoBlanco10&hide_border=true&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=ffffff" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
